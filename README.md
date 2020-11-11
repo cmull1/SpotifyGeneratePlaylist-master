@@ -8,10 +8,6 @@ A simple script that takes your liked videos on Youtube, and generates a Spotify
 * [ToDo](#ToDo)
 * [Troubleshooting](#Troubleshooting)
 
-## Video
-Check out the youtube video for a step by step walk through 
-[Youtube Video]
-
 ## Technologies
 * [Youtube Data API v3]
 * [Spotify Web API]
