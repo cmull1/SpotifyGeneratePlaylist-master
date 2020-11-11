@@ -1,3 +1,4 @@
+# This code was written by TheComeUpCode on GitHub https://github.com/TheComeUpCode/SpotifyGeneratePlaylist
 import json
 import os
 
