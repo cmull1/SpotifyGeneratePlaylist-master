@@ -33,7 +33,7 @@ A simple script that takes your liked videos on Youtube, and generates a Spotify
     * click on it and log into your Google Account to collect the `authorization code`
 
 
-## ToDo
+## To Do
 * Tests
 * Add Error Handling
 
